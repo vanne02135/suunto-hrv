@@ -1,4 +1,4 @@
 suunto-hrv
 ==========
 
-Use Suunto Ambit XML to determine heart rate variability
+Use Suunto Ambit to determine heart rate variability. Ambit saves the last log in ~/Library/Application Support/Suunto/Moveslink2 (in Mac OS X), just give the file name on command line. 
