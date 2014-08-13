@@ -6,3 +6,4 @@ Use Suunto Ambit to determine heart rate variability. Ambit saves the last log i
 For HRV measurement you should record 1-5 minutes of heart rate in the morning with controlled breath 
 and no distractions. 
 
+Simple web interface is available at http://traakki.kapsi.fi/suunto-hrv/
