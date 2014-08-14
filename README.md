@@ -10,5 +10,6 @@ and no distractions. For more information on using HRV analysis with training pl
   * http://www.ncbi.nlm.nih.gov/pubmed/21273908 (weightlifting)
   * http://www.ncbi.nlm.nih.gov/pubmed/23715265 (wrestling)
   * http://www.ncbi.nlm.nih.gov/pubmed/22367011 (triathlon)
+  * http://www.ncbi.nlm.nih.gov/pubmed/20575165 (daily aerobic exercise prescription in moderately active)
 
 Simple web interface is available at http://traakki.kapsi.fi/suunto-hrv/
