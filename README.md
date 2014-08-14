@@ -7,7 +7,8 @@ For HRV measurement you should record 1-5 minutes of heart rate in the morning w
 and no distractions. For more information on using HRV analysis with training planning, see e.g. 
   
   * http://hrvtraining.com/
-  * http://www.ncbi.nlm.nih.gov/pubmed/21273908
-  * http://www.ncbi.nlm.nih.gov/pubmed/23715265
+  * http://www.ncbi.nlm.nih.gov/pubmed/21273908 (weightlifting)
+  * http://www.ncbi.nlm.nih.gov/pubmed/23715265 (wrestling)
+  * http://www.ncbi.nlm.nih.gov/pubmed/22367011 (triathlon)
 
 Simple web interface is available at http://traakki.kapsi.fi/suunto-hrv/
