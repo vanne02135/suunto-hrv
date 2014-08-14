@@ -8,5 +8,6 @@ and no distractions. For more information on using HRV analysis with training pl
   
   * http://hrvtraining.com/
   * http://www.ncbi.nlm.nih.gov/pubmed/21273908
+  * http://www.ncbi.nlm.nih.gov/pubmed/23715265
 
 Simple web interface is available at http://traakki.kapsi.fi/suunto-hrv/
